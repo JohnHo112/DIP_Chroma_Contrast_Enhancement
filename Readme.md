@@ -6,8 +6,8 @@ The main idea is to perform contrast enhancement in the **CIECAM02 color appeara
 
 Detailed methodology, experiments, and analysis are available in:
 
-- [Project Report](./DIP%20Final%20Project.pdf)
-- [Project Slides](./DIP%20Final%20Project%20Slides.pdf)
+- [Project Report](./DIP_Final_Project_Report.pdf)
+- [Project Slides](./DIP_Final_Project_Slides.pdf)
 
 
 ## Motivation
